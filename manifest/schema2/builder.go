@@ -3,7 +3,9 @@ package schema2
 import (
 	"context"
 
-	"github.com/yaiyo/distribution"
+	"github.com/opencontainers/go-digest"
+
+	"github.com/yayiyo/distribution"
 )
 
 // builder is a type for constructing manifests.
