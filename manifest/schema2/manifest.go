@@ -5,9 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/csphere-docker/distribution"
-	"github.com/csphere-docker/distribution/manifest"
-	"github.com/opencontainers/go-digest"
+	"github.com/yayiyo/distribution"
+	"github.com/yayiyo/distribution/manifest"
 )
 
 const (

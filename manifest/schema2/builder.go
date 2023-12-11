@@ -3,8 +3,7 @@ package schema2
 import (
 	"context"
 
-	"github.com/csphere-docker/distribution"
-	"github.com/opencontainers/go-digest"
+	"github.com/yaiyo/distribution"
 )
 
 // builder is a type for constructing manifests.
